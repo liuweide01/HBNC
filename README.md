@@ -1,7 +1,7 @@
 # GFS-Seg
 This is the implementation of [**Harmonizing Base and Novel Classes: A Class-Contrastive Approach for Generalized Few-Shot Segmentation**](https://link.springer.com/article/10.1007/s11263-023-01939-y) (IJCV 2023). 
 
-![image](motivation.png)
+![image](Motivation.png)
 
 
 
