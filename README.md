@@ -6,7 +6,7 @@ This is the implementation of [**Harmonizing Base and Novel Classes: A Class-Con
 
 
 ### Datasets and Data Preparation
-The training settings of Pascal-VOC and MS COCO are following the original [**CAPL**](https://github.com/dvlab-research/GFS-Seg).
+The training configurations for Pascal-VOC and MS COCO datasets adhere to the standards established in the original CAPL methodology(https://github.com/dvlab-research/GFS-Seg).
 
 This code reads data from .txt files where each line contains the paths for image and the correcponding label respectively. Image and label paths are seperated by a space. Example is as follows:
 
